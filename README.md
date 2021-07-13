@@ -1,5 +1,20 @@
 ### Hello World! 👋
 
+My Name is Erwin Saavedra, my city is Valdivia, I'm Studying Computer Engineer, I'm Full Stack Developer
+
+Skills:
+  - JavaScript
+ 
+Framework Back End:
+  - Node JS
+  - Express
+
+Framework Front End:
+  - Angular
+
+
+
+
 <!--
 **erwinix/erwinix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
