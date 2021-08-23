@@ -4,13 +4,23 @@ My Name is Erwin Saavedra, my city is Valdivia, I'm Studying Computer Engineer, 
 
 Skills:
   - JavaScript
+  - Java
  
 Framework Back End:
   - Node JS
   - Express
+  - Spring Boot
+  - NestJS
 
 Framework Front End:
   - Angular
+  - ReactJS
+  - VueJS
+
+Database:
+  - Oracle
+  - SQL
+  - MySQL
 
 
 
